@@ -6,7 +6,7 @@ contract SpentaToken is StandardToken {
     string public name = 'SpentaToken';
     string public symbol = 'SPT';
     uint8 public decimals = 18;
-    uint public INITIAL_SUPPLY = 100000000;
+    uint public INITIAL_SUPPLY = 200000000;
 
     constructor() public {
         totalSupply_ = INITIAL_SUPPLY;

@@ -3,6 +3,16 @@
 This is ERC-20 smart contracts source code for Spenta token ICO
 <br><br>
 
+## Prerequisites
+```
+npm v5.8.0
+
+node v8.7.0
+
+ganache v1.1.0
+```
+<br>
+
 ## Installation
 
 
